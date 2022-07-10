@@ -1,1 +1,1 @@
-# prediction_project
+# diabetes_prediction_using_machinelearning
